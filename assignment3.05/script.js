@@ -1,6 +1,8 @@
 // var p = document.getElementById("changeMe");
 var p = document.querySelector("#changeMe");
 
+// hi
+
 p.innerHTML = "text";
 p.style.background = "blue";
 p.style.color = "red";
